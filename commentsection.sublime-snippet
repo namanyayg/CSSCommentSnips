@@ -4,5 +4,5 @@
    ${1:=Section}
    ========================================================================== */
 ]]></content>
-	<tabTrigger>*cs</tabTrigger>
+	<tabTrigger>comcs</tabTrigger>
 </snippet>

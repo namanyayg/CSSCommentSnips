@@ -4,9 +4,9 @@ Made by [Namanyay Goel](http://namanyayg.com/)
 
 ## How To 
 
-Place files in `Settings/User/css/`, and then:
+Place files in `Packages/User/css/`, and then:
 
-* `*cb + TAB` for a big comment block. Output:
+* `comcb + TAB` for a big comment block. Output:
 
 ```css
 /**
@@ -14,7 +14,7 @@ Place files in `Settings/User/css/`, and then:
  */
  ```
 
- * `*cs + TAB` for a section heading comment. Output: 
+ * `comcs + TAB` for a section heading comment. Output: 
 
 ```css
 /* ==========================================================================
@@ -22,7 +22,7 @@ Place files in `Settings/User/css/`, and then:
    ========================================================================== */
  ```
 
-* `*css + TAB` for a sub-section heading comment. Output:
+* `comcss + TAB` for a sub-section heading comment. Output:
 
 ```css
 /* Sub Section

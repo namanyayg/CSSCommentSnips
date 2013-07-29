@@ -3,5 +3,5 @@
 /* ${1:Sub Section}
    ========================================================================== */
 ]]></content>
-	<tabTrigger>*css</tabTrigger>
+	<tabTrigger>comcss</tabTrigger>
 </snippet>
