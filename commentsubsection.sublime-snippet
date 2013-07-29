@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+/* ${1:Sub Section}
+   ========================================================================== */
+]]></content>
+	<tabTrigger>*css</tabTrigger>
+</snippet>
