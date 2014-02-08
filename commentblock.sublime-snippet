@@ -3,7 +3,7 @@
 /**
  * ${1:Comment}
  */
-
+${2}
 ]]></content>
 	<tabTrigger>comcb</tabTrigger>
 </snippet>
